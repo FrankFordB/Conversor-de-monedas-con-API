@@ -1,4 +1,4 @@
-# Conversor-de-monedas-con-API
+# Conversor de monedas con API (exchangerate)
 
 Me hubiera gustado agregar más funcionalidades, como un arraylist que pudiera guardar los intercambios de monedas que realizamos para llevar una monitorización, pero por temas de tiempo no pude.
 Me siento muy atraído por el backend y disfruto mucho de Codear. 
